@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<Flights>
+
+<Flight>
+<origin>Austin</origin>
+<destination>Dallas</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>9:00 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>10:30 AM</arrivalTime>
+<price>120</price>
+</Flight>
+
+<Flight>
+<origin>Dallas</origin>
+<destination>Austin</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>9:30 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>11:00 AM</arrivalTime>
+<price>145</price>
+</Flight>
+
+<Flight>
+<origin>Houston</origin>
+<destination>San Antanio</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>10:00 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>12:00 PM</arrivalTime>
+<price>150</price>
+</Flight>
+
+<Flight>
+<origin>San Antanio</origin>
+<destination>Houston</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>10:30 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>12:30 AM</arrivalTime>
+<price>130</price>
+</Flight>
+
+<Flight>
+<origin>New York</origin>
+<destination>Boston</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>9:00 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>10:30 AM</arrivalTime>
+<price>120</price>
+</Flight>
+
+<Flight>
+<origin>Boston</origin>
+<destination>New York</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>9:30 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>11:00 AM</arrivalTime>
+<price>145</price>
+</Flight>
+
+<Flight>
+<origin>Maine</origin>
+<destination>Boston</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>10:30 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>12:30 AM</arrivalTime>
+<price>130</price>
+</Flight>
+
+<Flight>
+<origin>Boston</origin>
+<destination>Maine</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>10:00 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>12:00 PM</arrivalTime>
+<price>150</price>
+</Flight>
+
+<Flight>
+<origin>Portland</origin>
+<destination>Washington</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>10:00 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>1:30 PM</arrivalTime>
+<price>250</price>
+</Flight>
+
+<Flight>
+<origin>Portland</origin>
+<destination>Washington</destination>
+<departureDate>7/18/22</departureDate>
+<departureTime>11:00 AM</departureTime>
+<arrivalDate>7/18/22</arrivalDate>
+<arrivalTime>2:30 AM</arrivalTime>
+<price>270</price>
+</Flight>
+
+</Flights>
